@@ -1,2 +1,3 @@
 # DHU-assignment-archive
-To prevent loss, upload this data to Github to keep an archive
+因为文件太大，内容都在Release中
+
